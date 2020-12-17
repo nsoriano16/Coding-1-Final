@@ -1,2 +1,1 @@
-# Coding-1-Final
- These are the starter files for F2020 Coding 1
+This website is designed for a mountain climing business. Their services can range from mountain tours, to renting equipment for your own climb. The website is designed for the convenience of the customer by making scheduling a tour or renting equipment easier. Maybe someone who is interested in mountain climbing but not sure how to start could visit the site to find all of the information needed. Inventory of all climbing equipment and rental prices are all included on the site as well as tour schedules and destinations to further the convenience of planning a trip for the customer. This site is perfect for anyone wanting to plan a mountain trip or just interested in making one.
