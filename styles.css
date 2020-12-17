@@ -1,0 +1,56 @@
+.nav-link:hover {
+    box-shadow: 0px 8px 16px 0px rgba (0, 0, 0, 2);
+    color: gainsboro;
+}
+
+body {
+    background-color: slategray;
+}
+
+.contact-info {
+    font-family: 'Arial';
+    font-size: 20px;
+}
+
+.aboutimg {
+    margin-left: 450px;
+    height: 400px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 2);
+}
+
+#page-container {
+    position: relative;
+    min-height: 100vh;
+}
+
+#wrapper {
+    padding-bottom: 2.5rem;
+}
+
+footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    height: 6rem;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    font-size: 12px;
+}
+
+h1 {
+    text-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+
+.aboutext {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.contactmountain {
+    margin-left: 450px;
+    height: 400px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 2);
+}
